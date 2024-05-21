@@ -1,0 +1,40 @@
+footer{
+    padding: 100px 0;
+    background-color:rgba(0, 0, 0, 0.764) ;
+    margin-top: 100px ;
+    .container{
+        margin: 0 auto;
+        max-width: 1200px;
+        .sectLast{
+            display: flex;
+            gap: 100px;
+            .div1{
+                h4{
+                    font-weight: 700;
+                    font-size: 20px;
+                    line-height: 20.3px;
+                    font-family: "Playfair Display", serif;
+                   
+                }
+                p{
+                    color: #b8b8b8;
+                    font-family: "Raleway", sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                }
+               
+
+            }
+            .div2{
+                ul{
+
+                    li{
+                        list-style: none;
+                        line-height: 25.6px;
+                        color: #b8b8b8;
+                    }
+                }
+            }
+        }
+    }
+}
